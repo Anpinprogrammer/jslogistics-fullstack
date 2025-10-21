@@ -19,3 +19,7 @@ npm run dev
 
 ###Crear archivo .env, solo hay una variable de entorno de momento
 ### JWT_SECRET=palabrasupersecreta
+
+###Credenciales Login Admin
+Usuario: Javi123
+Contra: 123456
