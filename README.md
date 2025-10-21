@@ -14,4 +14,8 @@ npm run dev
 ### Frontend 
 cd frontend
 npm install
-npm start
+npm run dev
+
+
+###Crear archivo .env, solo hay una variable de entorno de momento
+### JWT_SECRET=palabrasupersecreta
